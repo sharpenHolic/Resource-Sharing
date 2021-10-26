@@ -1,5 +1,5 @@
 # Resource-Sharing
-以下是文件夹，里面包含了各个文件夹比较有用的资源，支持markdown，pdf以及网址
+里面包含了各个文件夹比较有用的资源，支持markdown，pdf以及网址
 ## C++
 《深度探索C++对象模型》
 
