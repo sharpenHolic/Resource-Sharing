@@ -1,0 +1,7 @@
+﻿  EatBeans.cpp
+  GameMusic.cpp
+D:\Github\Resource-Sharing\C++\C++游戏项目-daito\EatBeans\GameMusic.cpp(58,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  GMap.cpp
+  GObject.cpp
+  正在生成代码...
+  EatBeans.vcxproj -> D:\Github\Resource-Sharing\C++\C++游戏项目-daito\x64\Debug\EatBeans.exe
