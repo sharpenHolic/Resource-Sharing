@@ -1,0 +1,9 @@
+     4	sleep.sh
+     3	out.txt
+     2	debug.sh
+     1	ass_array.sh
+my name is
+     1	ass_array.sh
+     2	debug.sh
+     3	out.txt
+     4	sleep.sh
